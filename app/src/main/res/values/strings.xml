@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Facts</string>
+    <string name="message_no_internet">Please check your internet!</string>
+</resources>
